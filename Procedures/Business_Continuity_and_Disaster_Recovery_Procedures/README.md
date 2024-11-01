@@ -1,0 +1,2 @@
+# Business_Continuity_and_Disaster_Recovery_Procedures
+This directory contains resources related to Business_Continuity_and_Disaster_Recovery_Procedures under Procedures.

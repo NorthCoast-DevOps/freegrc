@@ -1,0 +1,2 @@
+# Security_Awareness_Training_Materials
+This directory contains resources related to Security_Awareness_Training_Materials under Training_and_Awareness.
