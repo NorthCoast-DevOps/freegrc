@@ -1,2 +1,1 @@
-# Secure_Development_Training_Materials
-This directory contains resources related to Secure_Development_Training_Materials under Training_and_Awareness.
+# Secure Development Training Materials

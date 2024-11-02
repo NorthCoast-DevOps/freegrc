@@ -1,2 +1,1 @@
-# Network_and_Infrastructure_Standards
-This directory contains resources related to Network_and_Infrastructure_Standards under Standards.
+# Network and Infrastructure Standards
